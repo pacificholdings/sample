@@ -1,2 +1,1 @@
-# sample
-keybase avatar
+This is a keybase identify verification site
